@@ -1,0 +1,30 @@
+.navbar *{
+    color: rgb(255, 170, 0);
+    font-family: "Smooch Sans", sans-serif;
+}
+
+.navbar{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); 
+}
+.navbar img{
+    border-radius: 100%;
+}
+
+
+
+.describe p { 
+    font-family: "Smooch Sans", sans-serif;
+    font-size: large;
+}
+
+.describe button{
+
+        background-color: rgb(19, 1, 67) !important;
+        color: #ffa600;
+}
+.describe button:hover{
+
+        background-color:  #ffa600 !important;
+        color: rgb(19, 1, 67);
+}
+
